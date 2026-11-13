@@ -1,0 +1,12 @@
+이 폴더의 글꼴은 모두 SIL Open Font License 1.1(OFL) 글꼴입니다.
+눈누(noonnu.cc)에서 라이선스 확인 후 받았고, 웹 탑재를 위해 글자 범위만 줄였습니다(OFL 허용).
+글꼴 파일 단독 판매는 금지됩니다.
+
+- Wanted Sans (원티드랩)  https://noonnu.cc/font_page/1269  원본 https://github.com/wanteddev/wanted-sans
+  WantedSans-common.woff2 = 영문·숫자·기호 + 완성형 한글 2,350자
+  WantedSans-rest.woff2   = 나머지 한글 (화면에 필요할 때만 받음)
+- 페이퍼로지 Paperlogy (이주임 X 김도균)  https://noonnu.cc/font_page/1456
+  Paperlogy-7Bold.woff2, Paperlogy-8ExtraBold.woff2 (눈누 웹폰트 파일 그대로)
+- 검은고딕 Black Han Sans (ZESSTYPE)  https://noonnu.cc/font_page/106  원본 https://fonts.google.com/specimen/Black+Han+Sans
+  BlackHanSans-common.woff2 = 영문·숫자·기호 + 완성형 한글 2,350자
+  OFL 원문: OFL-BlackHanSans.txt
